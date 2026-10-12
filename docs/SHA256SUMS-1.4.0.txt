@@ -1,0 +1,3 @@
+573057d03584ae793fb7ec9a14c76d826d9187a53efeefd99da47403a5308234  OpenJDK21U-jdk-sources_21.0.12.1_1.tar.gz
+431e4326351ee161b9dbcad36394a5f2bcec0f3236f1bd68a4733e17221e47d1  Strata-1.4.0-windows-x64-portable.zip
+08a36145406ec3c4a6aee25b77a7d144284f6744626dcc6e1d5a29fd880fdf90  StrataPortable/Strata.exe
