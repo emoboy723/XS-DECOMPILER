@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "checks": [
+    "compatible engine selector per sample",
+    "start action fits minimum window",
+    "external settings save remains visible",
+    "headless settings dialog fits and cancels without saving"
+  ]
+}

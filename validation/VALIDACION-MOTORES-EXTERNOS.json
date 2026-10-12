@@ -1,0 +1,5 @@
+{
+  "success": true,
+  "tests": 12,
+  "external_engines_tested": "simulated API and GUI launch; no real dotPeek/Binary Ninja installed"
+}

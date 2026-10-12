@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "checks": [
+    "combined is default",
+    "shared summary opens before any source",
+    "both motor sources visible together",
+    "result controls fit minimum window",
+    "AI selection retains both motor provenances without sending"
+  ]
+}

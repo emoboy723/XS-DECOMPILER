@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "checks": [
+    "separate sidebar sections",
+    "independent AI and local file selections",
+    "two agent previews",
+    "resume after dismissing preview",
+    "two actual local HTTP requests",
+    "previous result preview",
+    "side by side code and highlights",
+    "legible summary without usage JSON",
+    "collapsible technical details",
+    "local review hides agent controls",
+    "accepted copy preserves original",
+    "local dispatcher",
+    "completed history preserved",
+    "history reload",
+    "ZIP export",
+    "minimum window size keeps comparison visible"
+  ]
+}

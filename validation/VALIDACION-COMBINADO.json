@@ -1,0 +1,5 @@
+{
+  "success": true,
+  "tests": 9,
+  "engines": "ILSpy real; Ghidra and Binary Ninja simulated for combined dispatch tests"
+}

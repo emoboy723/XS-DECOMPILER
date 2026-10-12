@@ -1,0 +1,17 @@
+data/
+build/
+compiled/
+tools/
+runtime/
+_internal/
+.venv/
+__pycache__/
+*.pyc
+*.spec
+*.log
+*.zip
+*.exe
+.env*
+ui-test-data/
+tests/tmp*/
+!scripts/*.ps1

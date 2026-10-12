@@ -1,0 +1,52 @@
+{
+  "platform": "Windows x64",
+  "interface": "native desktop / Tk",
+  "executable": "Strata.exe",
+  "sha256": "08a36145406ec3c4a6aee25b77a7d144284f6744626dcc6e1d5a29fd880fdf90",
+  "engines": [
+    "JADX",
+    "ILSpy",
+    "Ghidra"
+  ],
+  "portable_runtimes": [
+    "Python 3.13.3",
+    "Temurin JDK 21",
+    "Microsoft .NET Runtime 6"
+  ],
+  "validation": true,
+  "version": "1.4.0",
+  "features": [
+    "configurable agents",
+    "OpenAI-compatible Chat Completions",
+    "Ollama",
+    "DPAPI secrets",
+    "local JavaScript deobfuscation",
+    "reviewed copies and diffs",
+    "Per-file engine selector",
+    "dotPeek GUI and source import",
+    "Optional licensed Binary Ninja HLIL adapter",
+    "Combined compatible engine coordinator",
+    "Unified unranked results and provenance",
+    "Combined ZIP export and optional AI review"
+  ],
+  "validation_tests": 48,
+  "parsers": [
+    "py-tree-sitter 0.26.0",
+    "tree-sitter-javascript 0.25.0"
+  ],
+  "interface_changes": [
+    "Separate AI, local deobfuscation and review pages",
+    "Side-by-side highlighted code",
+    "Collapsible technical details",
+    "Unified history tabs",
+    "High contrast grouped navigation",
+    "One-click agent selection",
+    "Model setup can create analyst automatically"
+  ],
+  "interface_validation_checks": 31,
+  "optional_engines": [
+    "dotPeek (not installed)",
+    "Binary Ninja (not installed)"
+  ],
+  "external_engine_validation": "12 adapter tests using simulated API; real external engines not installed"
+}

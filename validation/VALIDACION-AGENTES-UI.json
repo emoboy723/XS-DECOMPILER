@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "checks": [
+    "model creates ready analyst",
+    "single active sidebar entry on every page",
+    "active navigation retains contrast on hover",
+    "single-click agent toggle",
+    "maximum three selected agents",
+    "navigation fits minimum window"
+  ]
+}

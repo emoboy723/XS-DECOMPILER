@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "tests": 9,
+  "engines": {
+    "jadx": true,
+    "ilspy": true,
+    "ghidra": true,
+    "sandbox": false,
+    "dotpeek": false,
+    "binaryninja_gui": false,
+    "binaryninja": false
+  },
+  "details": "test_android_dex (__main__.Integration.test_android_dex) ... ok\ntest_changed_pc_file_blocked (__main__.Integration.test_changed_pc_file_blocked) ... ok\ntest_dotnet_and_zip (__main__.Integration.test_dotnet_and_zip) ... ok\ntest_external_vm_export_does_not_execute (__main__.Integration.test_external_vm_export_does_not_execute) ... ok\ntest_java (__main__.Integration.test_java) ... ok\ntest_native_pe (__main__.Integration.test_native_pe) ... ok\ntest_path_boundary_and_unknown_format (__main__.Integration.test_path_boundary_and_unknown_format) ... ok\ntest_pc_confirmation_and_launch_arguments (__main__.Integration.test_pc_confirmation_and_launch_arguments) ... ok\ntest_sandbox_unavailable_and_restricted_config (__main__.Integration.test_sandbox_unavailable_and_restricted_config) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 93.800s\n\nOK\n"
+}
